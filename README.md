@@ -202,7 +202,7 @@ See [LICENSE](LICENSE) for full details.
 
 <div align="center">
 
-**Built with ❤️ by [AJ Ashik](https://github.com/ajashik) and the LinkLLM community**
+**Built with ❤️ by [AJ Ashik](https://github.com/theajashik) and the LinkLLM community**
 
 *Making local AI inference accessible to every developer.*
 
